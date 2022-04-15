@@ -114,7 +114,7 @@ morphable_model/
 1. Clone the repository
 
     ```bash
-    git clone https://github.com/YadiraF/face3d
+    git clone https://github.com/AstroGuy1/face3d
     cd face3d
     ```
 
@@ -127,7 +127,7 @@ morphable_model/
 
 3. Prepare **BFM** Data (ignore if you don't use 3dmm)
 
-   see [Data/BFM/readme.md](https://github.com/YadiraF/face3d/blob/master/examples/Data/BFM/readme.md)
+   see [Data/BFM/readme.md](https://github.com/AstroGuy1/face3d/blob/master/examples/Data/BFM/readme.md)
 
 4. Run examples
 
